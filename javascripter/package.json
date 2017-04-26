@@ -1,0 +1,19 @@
+{
+  "name": "javascripter",
+  "version": "1.0.0",
+  "description": "This repo contains code that converts time into other units. This code has one fuction that converts a time in hours into an equivalent time in seconds. It also has a function that converts a time in seconds to an equivalent time in hours. This code is helpful when needing to make quick conversions between units. This program could be used for a physics class that deals a lot with time in seconds. If time is given in hours in the question, this code will quickly convert it to a time in seconds to use to solve the program without the individual needing to do additional work. Additionally, many times solving for time in physics problems in seconds usually yields large values. Being able to quickly convert the value in seconds to hours allows individuals to have a better sense of how much time a certain number of seconds is.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/valentga/javascripter.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/valentga/javascripter/issues"
+  },
+  "homepage": "https://github.com/valentga/javascripter#readme"
+}
